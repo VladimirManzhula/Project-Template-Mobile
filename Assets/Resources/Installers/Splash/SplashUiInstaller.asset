@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee06a425b52a4b79bfd75f43e0ae752f, type: 3}
+  m_Name: SplashUiInstaller
+  m_EditorClassIdentifier: 
+  canvas: {fileID: 6469292865412590556, guid: c6801562a16db4d46bbb1c7a181fd3d8, type: 3}
+  splashScreenView: {fileID: 6641279322997488093, guid: 74214ca6e71c1e94886a26b9f43a0229,
+    type: 3}
